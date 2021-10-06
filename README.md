@@ -1,6 +1,6 @@
 # Camera-App
 Camera App using Android Studio
 
-https://imgur.com/a/meQmJ69
+![alt text](https://i.imgur.com/jK4TX5U.png)
 
-https://imgur.com/a/DA02jl0
+![alt text](https://i.imgur.com/HDA7hbE.png)
